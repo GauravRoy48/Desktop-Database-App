@@ -1,5 +1,9 @@
 # Desktop-Database-App
-Python code that creates a GUI using Tkinter to access  and manage the database of a bookstore.
+- Python code that creates a GUI using Tkinter to access  and manage the database of a bookstore.
+- Spyder IDE used for coding.
+- To run the python code, run only **main.py** as it imports backend.py.
+- To create a **.exe** file, we need to install ***pyinstaller*** : `pip install pyinstaller`.
+- Once done, we run `pyinstaller --onefile --windowed main.py` to create the **.exe** file.
 
 ## main.py - Front end
 ### The GUI stores the following information:
